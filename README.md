@@ -18,8 +18,7 @@ This project involves building a big data pipeline to source, process, and visua
 To clone this project, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/wrvarun-96/-Data-Processing-and-Storage-Pipeline-for-E-Commerce-Behavior-Data.git
-cd -Data-Processing-and-Storage-Pipeline-for-E-Commerce-Behavior-Data
+git clone https://github.com/Famz21/Scalable-Data-Processing-and-Storage-Pipeline-for-E-Commerce-User-Behavior.git
 ```
 
 ### Creating Virtual Environment
